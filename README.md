@@ -36,3 +36,30 @@ This project is a Lead Management System built using Salesforce. It automates le
 
 ## Outcome
 This project demonstrates CRM automation, workflow design, and data visualization using Salesforce.<img width="1654" height="1323" alt="object" src="https://github.com/user-attachments/assets/850711ea-1678-4d23-8e77-9e73a96f1097" />
+
+## Tech Stack
+- Salesforce (Trailhead Playground)
+- Flow Builder
+- Reports & Dashboards
+
+## Project Workflow
+1. Created custom object: Lead Management
+2. Added fields (Name, Email, Phone, Status, Source)
+3. Built Record-Triggered Flow:
+   - Auto assigns owner
+   - Updates status to "Contacted"
+4. Created Reports:
+   - Leads grouped by Status
+5. Built Dashboard:
+   - Visual lead insights
+
+## Screenshots
+- Object Setup
+- Flow Automation
+- Report
+- Dashboard
+
+## Outcome
+- Automated lead handling
+- Improved tracking using reports
+- Visual insights through dashboard
